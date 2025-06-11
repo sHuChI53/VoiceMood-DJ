@@ -79,7 +79,7 @@ When you run the app, here’s what happens:
     🌐 Language: English  
     🔗 [▶️ Play on YouTube](https://youtube.com/link)
 
-*Note: 
+*Note:* 
   * Typed and voice inputs work separately
   * Works repeatedly without errors or thread issues
 
@@ -88,7 +88,7 @@ VoiceMood DJ proves that even with simple tools, you can build intelligent and d
 
 It’s engaging, practical, and adds a personal touch to music discovery — perfect for students, music lovers, or those exploring conversational UIs.
 
-**🚀 Future Scope**
+## **🚀 Future Scope**
 Here’s what’s next for VoiceMood DJ:
 
 * 😃 Emotion detection via webcam (facial recognition).
@@ -98,7 +98,7 @@ Here’s what’s next for VoiceMood DJ:
 *📱 Build a mobile app or voice assistant skill (Alexa, Google).
 * 🕓 Smart filters like “Morning Chill” or “Night Drive”.
 
-**📚 References**
+## **📚 References**
 
 * Streamlit Documentation
 * SpeechRecognition Package
